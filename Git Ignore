@@ -1,0 +1,24 @@
+Python
+
+pycache/
+*.py[cod]
+*$py.class
+
+Environments
+
+.env
+.venv
+env/
+venv/
+
+Local Data (Do not upload your email data!)
+
+user_corrections.json
+feedback_data/
+token.pickle
+credentials.json
+
+IDEs
+
+.vscode/
+.idea/
